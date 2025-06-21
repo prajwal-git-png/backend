@@ -1,5 +1,3 @@
----
-
 # Java To-Do List App (Spring Boot)
 
 This is a simple **To-Do List web application** built using **Java** and **Spring Boot**. The app allows users to create, view, update, and delete to-do items. It demonstrates core Spring Boot concepts like REST APIs, MVC, and data persistence.
@@ -75,6 +73,3 @@ src/main/resources
 ## 📝 License
 
 This project is open-source. Feel free to use and modify!
-
-
----
